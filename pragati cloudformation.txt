@@ -1,0 +1,15 @@
+{
+"Resources":{
+"FirstEc2Instance":{
+"Type" : "AWS::EC2::Instance",
+"Properties":{
+
+"ImageId" : "ami-06e4ca05d431835e9",
+"InstanceType" : "t2.micro"
+
+}
+}
+}
+
+}
+
